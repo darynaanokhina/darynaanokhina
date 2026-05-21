@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @p1nky2point0
-- 👀 I’m interested in creating cool stuff and art.
-- 🌱 I’m currently learning how to build games with js.
+- 👋 Hi, I’m Daryna
+- 👀 I’m interested in mathematics and art
+- 🌱 I’m currently self learning data science 
 - 💞️ I’m looking to collaborate on ( nothing yet as I am still learning).
 - 📫 How to reach me darina.anokhina@outlook.com
 
